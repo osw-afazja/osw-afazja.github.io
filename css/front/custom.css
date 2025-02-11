@@ -1,0 +1,95 @@
+body {
+	background: #1a1a1a;
+}
+
+header {
+	top: 0px;
+}
+
+.home-blog {
+	background:#eeebdd;
+}
+
+#slide-full .slider-wrap {
+    min-height: 0px;
+}
+
+div.slider-wrapper.theme-default {
+	margin-top: 45px;
+}
+
+.header h2 {
+	color: #ffb400;
+	font-family: Bitter, Sans-Serif;
+	font-weight: 400;
+	line-height: 1.1;
+
+	font-size: 24px;
+	text-align: center;
+	text-transform: uppercase;
+	text-shadow: 3px 0px 0px rgba(0,0,0,0.20);
+	line-height: 35px;
+	margin-bottom: 15px;
+	color: #eeebdd;		
+}
+
+.nav {
+	border-top: 1px solid white;
+}
+
+.nav-left ul, .nav-right ul {
+	margin-bottom: 0px;
+	border-top: 0;
+	border-bottom: 0;
+}
+
+.nav-left li a, .nav-right li a {
+	padding: 10px 5px;
+}
+
+.hb-content h3 {
+	font-size: 22px;
+	margin: 5px 0 20px;
+}
+
+.hb-content {
+	margin: 10px 0 20px;
+}
+
+.home-blog .col-md-4 {
+	padding: 5px 16px;
+}
+
+.event-img-medium {
+	width: 258px;
+	height: 174px;
+	overflow: hidden;	
+}
+
+.event-img-wide {
+	width: 400px;
+	height: 250px;
+	overflow: hidden;
+}
+
+.event-img-medium img, .event-img-wide img {
+	width: 100%;
+}
+
+.side-widget {
+	margin-top: 126px;
+}
+
+.devise-container {
+	padding: 10px;
+	width: 580px;
+	float: left;
+}
+
+.main-wrap {
+	padding: 10px;
+}
+
+.flashes {
+	margin-top: 30px;
+}
