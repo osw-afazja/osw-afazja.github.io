@@ -15,7 +15,7 @@ layout: default
         <img src="http://res.cloudinary.com/osw-afazja/image/upload/v1/304/medium/01_MINIATURKA.JPG" class="img-responsive img-thumbnail" alt="">
       </div>
       <p></p>
-      <a href="/galeria/dzien-ziemniaka" class="hb-more">Galeria</a>
+      <a href="/" class="hb-more">Galeria</a>
     </div>
     <div class="col-md-4 hb-content">
       <div class="hb-meta"><span class="date"></span></div>
@@ -24,7 +24,7 @@ layout: default
         <img src="http://res.cloudinary.com/osw-afazja/image/upload/v1/307/medium/01_MINIATURKA.png" class="img-responsive img-thumbnail" alt="">
       </div>
       <p></p>
-      <a href="/galeria/dzien-papieski" class="hb-more">Galeria</a>
+      <a href="/" class="hb-more">Galeria</a>
     </div>
     <div class="col-md-4 hb-content">
       <div class="hb-meta"><span class="date"></span></div>
@@ -33,7 +33,7 @@ layout: default
         <img src="http://res.cloudinary.com/osw-afazja/image/upload/v1/308/medium/01_MINIATURKA.jpg" class="img-responsive img-thumbnail" alt="">
       </div>
       <p></p>
-      <a href="/galeria/wizyta-w-strazy-pozarnej" class="hb-more">Galeria</a>
+      <a href="/" class="hb-more">Galeria</a>
     </div>
     <div class="col-md-4 hb-content">
       <div class="hb-meta"><span class="date"></span></div>
@@ -42,7 +42,7 @@ layout: default
         <img src="http://res.cloudinary.com/osw-afazja/image/upload/v1/303/medium/248014252_205767168282727_428828263816294287_n.jpg" class="img-responsive img-thumbnail" alt="">
       </div>
       <p>Turniej piłkarski na Niecałej i małopolskie turnieje piłki nożnej</p>
-      <a href="/galeria/turniej-pilkarski" class="hb-more">Galeria</a>
+      <a href="/" class="hb-more">Galeria</a>
     </div>
 </div>
 
@@ -51,7 +51,7 @@ layout: default
   <div class="col-md-4 hb-content"></div>
   <div class="col-md-4 hb-content"></div>
   <div class="col-md-4 hb-content">
-    <a href="/wydarzenia" class="hb-more">Wszystkie wydarzenia</a>
+    <a href="/" class="hb-more">Wszystkie wydarzenia</a>
   </div>
 </div>
   </div>
