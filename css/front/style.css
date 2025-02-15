@@ -4016,11 +4016,11 @@ border-radius:0px;
     height: 24px;
     opacity: 1;
     border-radius: 0px;
-    background: url(../images/bullets.png) no-repeat top center;
+    background: url(../front/images/bullets.png) no-repeat top center;
 }
 
 #owl-homeslider .owl-controls .active span {
-    background: url(../images/bullets.png) no-repeat bottom center;
+    background: url(../front/images/bullets.png) no-repeat bottom center;
 }
 
 
