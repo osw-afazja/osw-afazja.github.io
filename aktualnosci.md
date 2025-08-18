@@ -14,19 +14,18 @@ permalink: /aktualnosci/
         </div>
         <div class="space30"></div>
         
-        <font size="5"><b><font color="blue">Harmonogram Teatru Eden w roku 2024/2025</font> </b></font><br><br>
+        <font size="5"><b><font color="blue">Rozpoczęcie roku przedszkolnego i szkolnego 2025/2026</font> </b></font><br><br>
 <font size="4"><br>
-Szanowni Państwo,<br> <br>
-zapraszamy serdecznie wszystkie dzieci na występy Teatru Eden, który odwiedzi nas w dniach:<br>
-1 października "Jonasz i niezwykła ryba"<br>
-6 grudnia "Spotkanie ze świętym Mikołajem"<br>
-5 lutego "Opowieść o dobrym człowieku"<br>
-11 marca "prawdziwy skarb" <br>
-9 maja "Wieża do nieba"<br>
-Będzie to wspaniała okazja do wspólnego przeżycia magicznych chwil w świecie teatru!<br>
-
- <br><br>
-
+Szanowni Państwo, Drogie Dzieci<br> <br>
+1 września 2025 r. rozpoczynamy nowy rok szkolny w naszej placówce<br>
+Zapraszamy wszystkich na Mszę Świętą o godz. 9.00<br>
+w Kościele Najświętszego Serca Pana Jezusa w Krakowie, ul. Millana 13<br>
+<br>
+Po Mszy Świętej odbędzie się spotkanie organizacyjne na sali gimnastycznej,<br>
+a następnie spotkanie z wychowawcami w klasach i grupach przedszkolnych.<br>
+<br><br>
+<i>Dyrektor oraz Grono Pedagogiczne</i>
+<br><br>
 
 <!---<font size=5><b><font color=blue>2 września -rozpoczęcie roku szkolnego 2024/2025</font color> </b></font size><br><br>
 </font color=black><font size=4><br>
