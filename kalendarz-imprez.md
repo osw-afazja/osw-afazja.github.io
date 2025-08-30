@@ -9,7 +9,7 @@ permalink: /kalendarz-imprez/
          <div class="events-wrap-big">
             <div class="row">
                <div class="col-md-16">
-                  <h4><span>Kalendarz imprez na rok szkolny 2024/2025</span></h4>
+                  <h4><span>Kalendarz imprez na rok szkolny 2025/2026</span></h4>
                </div>
             </div>
             <div class="space30"></div>
@@ -66,11 +66,31 @@ permalink: /kalendarz-imprez/
                <br>20.03 Powitanie wiosny - Marzanna
                <br>
             </p>
-            <p><b><font size="4"><font size="3"><b>KWIECIEŃ</b><br><font color="blue"><br><br>Śniadanie wielkanocne<br>30. 04. Święto Narodowe Trzeciego Maja - lekcja historii</font></font></font></b></p>
-            <p><b><font size="4"><font size="3"><b>
-               MAJ</b><br><font color="blue"><br><font color="red"><font size="4">27. 05. godz. 14<sup>00</sup> - 18<sup>00</sup> Dzień Rodziny</font></font></font></font></font></b><font size="4"><font size="3"><font color="blue"><font color="red"><font size="4"><br><font color="blue"><b> Konkurs recytatorski</b></font></font></font></font></font></font>
+            <p>
+              <b>KWIECIEŃ</b>
+              <br>
+              Śniadanie wielkanocne
+              <br>
+              30. 04. Święto Narodowe Trzeciego Maja - lekcja historii
+              <br>
+              </p>
+            <p>
+               <b>MAJ</b>
+               <br>
+               27. 05. godz. 14<sup>00</sup> - 18<sup>00</sup> Dzień Rodziny
+              <br>
+              Konkurs recytatorski
+              <br>
             </p>
-            <p><font size="4"><font size="3"><font color="blue"><font color="red"><b><b><br>CZERWIEC</b><br><b><font color="blue">01. 06. Dzień Dziecka</font><br><font color="red"><font size="4">27. 06. godz. 9<sup>00</sup>  Zakończenie Roku Szkolnego</font></font></b></b></font></font></font></font></p>
+            <p>
+              <b>CZERWIEC</b>
+              <br>
+              01. 06. Dzień Dziecka 
+              <br>
+              27. 06. godz. 9<sup>00</sup>  Zakończenie Roku Szkolnego
+              <br>
+            </p>
+            <p>
             <font size="4"><font size="3"><font color="blue"><font color="red"><b><b><font color="red"><font size="4">
             </font></font></b></b></font></font></font></font>
          </div>
