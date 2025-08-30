@@ -14,17 +14,16 @@ permalink: /kalendarz-imprez/
             </div>
             <div class="space30"></div>
             <p>
-              <b>WRZESIEŃ</b>   
+              <b>WRZESIEŃ</b>
+              <br>
               01.09. godz. 9<sup>00</sup>
               Rozpoczęcie Roku Szkolnego
-            </p>
-            <p>
+              <br>
               19.09. Dzień przedszkolaka
-            <p>
-            <p>
+              <br>
               26. 09. Europejski Dzień Sportu Szkolnego
             </p>
-            <p><b>
+            <p>
             PAŹDZIERNIK</b><br><font color="red"><b><font size="4">10. 10. godz. 8<sup>30</sup> Święto Patronalne Placówki (Pasowanie na Przedszkolaka i Ślubowanie Uczniów klas pierwszych)</font></b></font><b><br><font color="blue">16. 10. Dzień Papieski<br></font></b></p><p><b>
             LISTOPAD</b><br><font color="blue">07. 11. Święto Niepodległości - Akademia</font></b></p>
             <p><b><b>
