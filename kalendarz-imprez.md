@@ -17,35 +17,54 @@ permalink: /kalendarz-imprez/
               <b>WRZESIEŃ</b>
               <br>
               01.09. godz. 9<sup>00</sup>
-              Rozpoczęcie Roku Szkolnego
+              - Rozpoczęcie Roku Szkolnego
               <br>
               19.09. Dzień przedszkolaka
               <br>
               26. 09. Europejski Dzień Sportu Szkolnego
             </p>
             <p>
-            PAŹDZIERNIK</b><br><font color="red"><b><font size="4">10. 10. godz. 8<sup>30</sup> Święto Patronalne Placówki (Pasowanie na Przedszkolaka i Ślubowanie Uczniów klas pierwszych)</font></b></font><b><br><font color="blue">16. 10. Dzień Papieski<br></font></b></p><p><b>
-            LISTOPAD</b><br><font color="blue">07. 11. Święto Niepodległości - Akademia</font></b></p>
-            <p><b><b>
-               GRUDZIEŃ</b><br><font color="blue">05. 12. Spotkanie ze Św. Mikołajem<br>
-               <b>17. 12. godz. 10<sup>30</sup> Wigilia i Jasełka dla społeczności szkolnej</b></font><br>
-               <font size="4"><font color="red"><b>18. 12. godz. 13<sup>30</sup> zapraszamy na Jasełka Rodziców i Opiekunów</b></font><br>
-               </font></b>
+              <b>PAŹDZIERNIK</b>
+              <br>
+              10. 10. godz. 8<sup>30</sup> 
+              - Święto Patronalne Placówki (Pasowanie na Przedszkolaka i Ślubowanie Uczniów klas pierwszych)
+              <br>
+              16. 10. Dzień Papieski
             </p>
-            <p><b><font size="4"><b><font size="3">
-               STYCZEŃ</font></b><font size="3"><br><font color="red"><font size="4">23. 01. Dzień Babci i Dziadka w przedszkolu</font></font></font></font></b>
+            <p>
+             <b>LISTOPAD</b>
+             <br>
+              07. 11. Święto Niepodległości - Akademia
+             </p>
+             <p>
+               <b>GRUDZIEŃ</b>
+               <br>
+                05. 12. Spotkanie ze Św. Mikołajem
+                <br>
+                17. 12. godz. 10<sup>30</sup> Wigilia i Jasełka dla społeczności szkolnej
+                <br>
+                18. 12. godz. 13<sup>30</sup> zapraszamy na Jasełka Rodziców i Opiekunów
+                <br>
+               </p>
+              <p>
+               <b>STYCZEŃ</b>
+               <br>
+                23. 01. Dzień Babci i Dziadka w przedszkolu
+                <br>
+                29. 01. Dzień Babci i Dziadka w klasach I i II
+                <br>
+                23. 01. Dzień Babci i Dziadka w w klasach III
+                <br>
             </p>
-            <p><b><font size="4"><font size="3"><b><br>
-               </b><font size="3"><br><font color="red"><font size="4">29. 01. Dzień Babci i Dziadka w klasach I i II</font></font></font></font></b>
+            <p>
+               <b>LUTY</b>
+               <br>
+               Bale karnawałowe
             </p>
-            <p><b><font size="4"><font size="3"><b><br>
-               <font size="3"><br><font color="red"><font size="4">23. 01. Dzień Babci i Dziadka w w klasach III</font></font></font></font></b>
-            </p>
-            <p><b><font size="4"><font size="3"><b><br>
-               LUTY</b><br><font color="blue">Bale karnawałowe</font><br></font></font></b>
-            </p>
-            <p><b><font size="4"><font size="3"><b>
-               MARZEC</b><font color="blue"><br>20.03 Powitanie wiosny - Marzanna<br></font></font></font></b>
+            <p>
+               <b>MARZEC</b>
+               <br>20.03 Powitanie wiosny - Marzanna
+               <br>
             </p>
             <p><b><font size="4"><font size="3"><b>KWIECIEŃ</b><br><font color="blue"><br><br>Śniadanie wielkanocne<br>30. 04. Święto Narodowe Trzeciego Maja - lekcja historii</font></font></font></b></p>
             <p><b><font size="4"><font size="3"><b>
