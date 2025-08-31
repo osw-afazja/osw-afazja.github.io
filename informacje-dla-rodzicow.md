@@ -28,7 +28,8 @@ Liczymy na Waszą pomoc, Waszą obecność i rodzicielskie wsparcie, którego ba
 <b><font color="navy" blue=""> Przed i po zakończonych lekcjach dzieci mogą bawić się w świetlicy, która czynna jest w godzinach 6<sup>30</sup> - 16<sup>30</sup>.</font></b>
 <p></p>
 
-<font size="3"><b><font color="green">PRZEDSZKOLE</font></b></font><br><br><font size="3"><font color="green">●  opłatę za wyżywienie (obliczaną w każdym miesiącu) + 1 zł za każdą godzinę poza czasem 5 godzinnego, bezpłatnego nauczania, wychowania i opieki, należy uiszczać pod koniec danego miesiąca;</font><font size="3"><br><br><font color="black">FORMY TERAPII WSPOMAGAJĄCYCH W PRZEDSZKOLU:<br>- terapia SI<br>- trening uwagi słuchowej metodą A. Tomatisa<br>- zajęcia muzyczno - ruchowe z elementami rytmiki i logorytmiki - 2 razy w tygodniu<br> - zajęcia ogólnorozwojowe - 2 razy w tygodniu<br><br><b>Zajęcia dodatkowe popołudniowe:</b><br>- Szkoła tańca AS<br> - Taekwon-Do - p. Mikołaj Kotowicz<br><br><br>
+<font size="3"><b><font color="green">PRZEDSZKOLE</font></b></font><br><br><font size="3"><font color="green">●  opłatę za wyżywienie (obliczaną w każdym miesiącu) + 1 zł za każdą godzinę poza czasem 5 godzinnego, bezpłatnego nauczania, wychowania i opieki, należy uiszczać pod koniec danego miesiąca;</font><font size="3"><br><br><font color="black">FORMY TERAPII WSPOMAGAJĄCYCH W PRZEDSZKOLU:<br>- terapia SI<br>- trening uwagi słuchowej metodą A. Tomatisa<br>- zajęcia muzyczno - ruchowe z elementami rytmiki i logorytmiki - 2 razy w tygodniu<br> 
+  <br><b>Zajęcia dodatkowe popołudniowe:</b><br>- Szkoła tańca AS<br> - Taekwon-Do - p. Mikołaj Kotowicz<br><br><br>
  <font size="3"><b><font color="blue">SZKOŁA</font></b></font><br><br><font color="blue">
 ● opłatę za wyżywienie (obliczaną w każdym miesiącu), należy uiszczać pod koniec danego miesiąca;</font></font><br><br><font color="black"><font size="3">FORMY TERAPII WSPOMAGAJĄCYCH DLA UCZNIÓW KL. I - III:<br>- terapia SI<br>- trening uwagi słuchowej metodą A. Tomatisa<br>- zajęcia muzyczno - ruchowe z elementami rytmiki i logorytmiki - 1 raz w tygodniu<br><br>
 
@@ -80,7 +81,7 @@ Nauczyciele klas I, II, III<br>
 <tr><td> 06. 01. 2026</td><td>Święto Trzech Króli - wolne ustawowo</td></tr>
 <tr><td>02.02. 01. - 15. 02. 2026</td><td>ferie zimowe w Małopolsce<br><b> dyżur w przedszkolu </b></td></tr>
 <tr><td> 02. 04. - 06. 04. 2026</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/przedszkole</td></tr>
-<tr><td> 02. 04. - 06. 04. 2026</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/szkoła</td></tr>
+<tr><td> 02. 04. - 07. 04. 2026</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/szkoła</td></tr>
 <tr><td> 01. oraz 03. 05. 2026</td><td>Święto Konstytucji 3 Maja - wolne ustawowo</td></tr>
 <tr><td> 04. 05. 2026</td><td>Boże Ciało - wolne ustawowo</td></tr>
 <tr><td> 26. 06. 2026</td><td>Uroczyste zakończenie roku przedszkolnego/szkolnego (piątek)</td></tr>
