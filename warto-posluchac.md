@@ -35,7 +35,7 @@ W ROKU SZKOLNYM 2025/2026 NA SPOTKANIA ZAPRASZAMY:
 <font color="black"> Klasy 3a, 3b - spotkanie w ramach opracowania ewaluacji wielospecjalistycznej oceny funkcjonowania ucznia.  Godziny zostaną podane przez nauczycieli. <br> 
 
 <b><font size="5"><font color="green"><br>5.03.2026</font></font><br><br>
-<font color="black"> GKlasy 1a, 1b - spotkanie w ramach opracowania ewaluacji wielospecjalistycznej oceny funkcjonowania ucznia.  Godziny zostaną podane przez nauczycieli. <br> 
+<font color="black"> Klasy 1a, 1b - spotkanie w ramach opracowania ewaluacji wielospecjalistycznej oceny funkcjonowania ucznia.  Godziny zostaną podane przez nauczycieli. <br> 
 
 <b><font size="5"><font color="green"><br>06.03.2026</font></font><br><br>
 <font color="black"> Grupy przedszkolne - spotkanie w ramach opracowania ewaluacji wielospecjalistycznej oceny funkcjonowania ucznia.  Godziny zostaną podane przez nauczycieli. <br> 
