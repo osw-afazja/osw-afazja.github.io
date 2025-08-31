@@ -16,7 +16,7 @@ permalink: /warto-byc/
         
         <a href="https://drive.google.com/file/d/1moQEhSGV4JJkRaz2ukA6T1i9JUQOgM_Y/view?usp=sharing" target="_blank">Przedszkole grupa 0a wychowawca mgr Agnieszka Czapko </a>
 <br><br>
-<a href="https://drive.google.com/file/d/1fg6zE0DryOGnOpNu_KMjQgQ0C9Mt4cgk/view?usp=sharing" target="_blank">Przedszkole grupa 0b wychowawca mgr Dorota Garnek </a>
+<a href="https://drive.google.com/file/d/13jAVQD3Tqt45kBua-410PujHXrd-FwiN/view?usp=drive_link" target="_blank">Plan lekcji klasy1-3 </a>
 <br><br>
 <a href="https://drive.google.com/file/d/1ZELC1joEcaKjUZm3jAS_jQ0X1-80Fn0Y/view?usp=sharing" target="_blank">1a - wychowawca mgr Iwona Tabiś </a>
 <br><br>
