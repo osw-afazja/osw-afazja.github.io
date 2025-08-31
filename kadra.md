@@ -15,7 +15,7 @@ permalink: /kadra/
         <div class="space30"></div>
         
         <b>DYREKTOR:</b><br><b> Siostra Marta Gryzło</b> -pedagog specjalny, nauczyciel wychowania przedszkolnego i edukacji wczesnoszkolnej, nauczyciel mianowany<br><p></p><b>
-PSYCHOLODZY:</b><br><b>Anna Nytko</b> - psycholog, 
+PSYCHOLODZY:</b><br><b>Anna Nytko</b> - psycholog, nauczyciel mianowany
 <br><b>Katarzyna Tomsia</b> - psycholog, pedagog, nauczyciel mianowany<p></p><b>
 LOGOPEDZI:</b><br><b> Elżbieta Drewniak-Wołosz</b> - neurologopeda, psycholog, nauczyciel dyplomowany
 <br><b>Marta Janikowska</b> - logopeda, pedagog opiekuńczo - wychowawczy, nauczyciel dyplomowany
@@ -36,7 +36,7 @@ LOGOPEDZI:</b><br><b> Elżbieta Drewniak-Wołosz</b> - neurologopeda, psycholog,
 <br><b> Katarzyna Drabek</b> - nauczyciel współorganizujący proces kształcenia, nauczyciel wychowania przedszkolnego, oligofrenopedagog, plastyk, nauczyciel mianowany
 <br><b> Damian Dudkiewicz</b> - magister fizjoterapii, certyfikowany terapeuta Integracji Sensorycznej Ayres SIAT oraz terapii neurorozwojowej NDT - Bobath, oligofrenopedagog, pedagog
 <br><b>Anna Janik</b> - nauczyciel wychowania fizycznego i gimnastyki korekcyjnej, oligofrenopedagog, nauczyciel mianowany
-<br><b> ks. Robert Mroczek</b> - nauczyciel religii, 
+<br><b> ks. Robert Mroczek</b> - nauczyciel religii 
  <br><p></p><b> POMOC NAUCZYCIELA /WYCHOWAWCY ŚWIETLICY:
 <br><b> s. Agnes</b></b> - pomoc nauczyciela
 <br><b> s. Hilaria</b> - pomoc nauczyciela, wychowawca świetlicy
