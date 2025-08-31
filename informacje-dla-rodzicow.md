@@ -79,7 +79,7 @@ Nauczyciele klas I, II, III<br>
 <tr><td> 22. 12. - 31. 12. 2025</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna</td></tr>
 <tr><td> 01. 01. 2026</td><td>Nowy Rok - wolne ustawowo</td></tr>
 <tr><td> 06. 01. 2026</td><td>Święto Trzech Króli - wolne ustawowo</td></tr>
-<tr><td>02.02. 01. - 15. 02. 2026</td><td>ferie zimowe w Małopolsce<br><b> dyżur w przedszkolu </b></td></tr>
+<tr><td>02.02. - 15. 02. 2026</td><td>ferie zimowe w Małopolsce<br><b> dyżur w przedszkolu </b></td></tr>
 <tr><td> 02. 04. - 06. 04. 2026</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/przedszkole</td></tr>
 <tr><td> 02. 04. - 07. 04. 2026</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/szkoła</td></tr>
 <tr><td> 01. oraz 03. 05. 2026</td><td>Święto Konstytucji 3 Maja - wolne ustawowo</td></tr>
