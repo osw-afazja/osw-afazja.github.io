@@ -46,9 +46,8 @@ W ROKU SZKOLNYM 2025/2026 NA SPOTKANIA ZAPRASZAMY:
 
 <b><font size="5"><font color="green"><br>16.04.2026</font></font><br><br>
 <font color="black"> Klasy 2a, 2b - spotkanie w ramach opracowania ewaluacji wielospecjalistycznej oceny funkcjonowania ucznia.  Godziny zostaną podane przez nauczycieli. <br> 
- <p></p>
 
- <b><font size="5"><font color="green"><br>11.06.2026</font></font><br><br>
+ <b><font size="5"><font color="green"><br>11.06.2026</font></font><br>
 <font color="black"> Klasy 3a, 3b - spotkanie w ramach opracowania ewaluacji wielospecjalistycznej oceny funkcjonowania ucznia.  Godziny zostaną podane przez nauczycieli. <br> 
  <p></p>
         
