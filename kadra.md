@@ -15,19 +15,18 @@ permalink: /kadra/
         <div class="space30"></div>
         
         <b>DYREKTOR:</b><br><b> Siostra Marta Gryzło</b> -pedagog specjalny, nauczyciel wychowania przedszkolnego i edukacji wczesnoszkolnej, nauczyciel mianowany<br><p></p><b>
-PSYCHOLODZY:</b><br><b>Anna Nytko</b> - psycholog, w trakcie studiów z przygotowania pedagogicznego
+PSYCHOLODZY:</b><br><b>Anna Nytko</b> - psycholog, 
 <br><b>Katarzyna Tomsia</b> - psycholog, pedagog, nauczyciel mianowany<p></p><b>
 LOGOPEDZI:</b><br><b> Elżbieta Drewniak-Wołosz</b> - neurologopeda, psycholog, nauczyciel dyplomowany
-<br><b>Marta Janikowska</b> - logopeda, pedagog opiekuńczo - wychowawczy, nauczyciel mianowany
-<br><b> Kamila Lisak</b> - logopeda, pedagog, nauczyciel kontraktowy
-<!-- <br><b> Ilona Nowak</b> - neurologopeda, terapeuta wczesnego wspomagania rozwoju dziecka, pedagog, nauczyciel kontraktowy -->
+<br><b>Marta Janikowska</b> - logopeda, pedagog opiekuńczo - wychowawczy, nauczyciel dyplomowany
+<br><b> Ilona Nowak</b> - neurologopeda, terapeuta wczesnego wspomagania rozwoju dziecka, pedagog, nauczyciel mianowany
 <br><b>Katarzyna Socha</b> - neurologopeda, nauczyciel języka polskiego, nauczyciel mianowany
 <br><b>Katarzyna Komar</b> - neurologopeda, nauczyciel dyplomowany<p></p>
 <b> NAUCZYCIELE:</b>
-<br><b>Siostra Elżbieta Wilczek</b> - pedagog szkolny, oligofrenopedagog, terapeuta pedagogiczny i wspomagający, nauczyciel kontraktowy
-<br><b>Siostra Alicja Grot</b> - pedagog szkolny, oligofrenopedagog, terapeuta pedagogiczny i wspomagający, nauczyciel kontraktowy
+<br><b>Siostra Elżbieta Wilczek</b> - pedagog szkolny, oligofrenopedagog, terapeuta pedagogiczny i wspomagający, nauczyciel mianowany
+<br><b>Siostra Alicja Grot</b> - pedagog szkolny, oligofrenopedagog, terapeuta pedagogiczny i wspomagający, nauczyciel mianowany
 <br><b>Agnieszka Chmiel</b> - pedagog specjalny, nauczyciel wychowania przedszkolnego i edukacji wczesnoszkolnej, pedagog opiekuńczo-wychowawczy, terapeuta zajęciowy, nauczyciel mianowany
-<br><b>Agnieszka Czapko</b> - pedagog specjalny, nauczyciel wychowania przedszkolnego i edukacji wczesnoszkolnej, nauczyciel edukacji techniczno - informatycznej, nauczyciel mianowany
+<br><b>Agnieszka Czapko</b> - pedagog specjalny, nauczyciel wychowania przedszkolnego i edukacji wczesnoszkolnej, nauczyciel edukacji techniczno - informatycznej, logopeda, nauczyciel mianowany
 <br><b> Dorota Garnek</b> - pedagog specjalny, nauczyciel wychowania przedszkolnego, nauczyciel wychowania muzycznego i muzykoterapii, nauczyciel mianowany
 <br><b>Ewelina Kaźmierska</b> - pedagog specjalny, nauczyciel pedagogiki przedszkolnej i edukacji wczesnoszkolnej, nauczyciel kontraktowy
 <br><b>Dorota Nowogórska</b> - pedagog specjalny, nauczyciel wychowania przedszkolnego i edukacji wczesnoszkolnej, nauczyciel mianowany
@@ -37,13 +36,13 @@ LOGOPEDZI:</b><br><b> Elżbieta Drewniak-Wołosz</b> - neurologopeda, psycholog,
 <br><b> Katarzyna Drabek</b> - nauczyciel współorganizujący proces kształcenia, nauczyciel wychowania przedszkolnego, oligofrenopedagog, plastyk, nauczyciel mianowany
 <br><b> Damian Dudkiewicz</b> - magister fizjoterapii, certyfikowany terapeuta Integracji Sensorycznej Ayres SIAT oraz terapii neurorozwojowej NDT - Bobath, oligofrenopedagog, pedagog
 <br><b>Anna Janik</b> - nauczyciel wychowania fizycznego i gimnastyki korekcyjnej, oligofrenopedagog, nauczyciel mianowany
-<br><b> Siostra Milena Pociask</b> - nauczyciel religii, nauczyciel pedagogiki przedszkolnej i wczesnoszkolnej, nauczyciel mianowany
+<br><b> ks. Robert Mroczek</b> - nauczyciel religii, 
  <br><p></p><b> POMOC NAUCZYCIELA /WYCHOWAWCY ŚWIETLICY:
 <br><b> s. Agnes</b></b> - pomoc nauczyciela
 <br><b> s. Hilaria</b> - pomoc nauczyciela, wychowawca świetlicy
 <br><b> Bogumiła Piechowicz</b> - pomoc nauczyciela
 
-<br><p></p><b>LEKARZ:</b><br><b> Małgorzata Nowaczek</b> - specjalista pediatrii, neurolog dziecięcy<p></p><b> PIELĘGNIARKA</b><br><b> Zofia Jaskowska</b> - starsza dyplomowana higienistka środowiska szkolnego<p>
+<br><b> PIELĘGNIARKA</b><br><b> Zofia Jaskowska</b> - starsza dyplomowana higienistka środowiska szkolnego<p>
         
       </p></div>
     </div>
