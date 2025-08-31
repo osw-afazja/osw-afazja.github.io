@@ -28,7 +28,7 @@ Liczymy na Waszą pomoc, Waszą obecność i rodzicielskie wsparcie, którego ba
 <b><font color="navy" blue=""> Przed i po zakończonych lekcjach dzieci mogą bawić się w świetlicy, która czynna jest w godzinach 6<sup>30</sup> - 16<sup>30</sup>.</font></b>
 <p></p>
 
-<font size="3"><b><font color="green">PRZEDSZKOLE</font></b></font><br><br><font size="3"><font color="green">●  opłatę za wyżywienie (obliczaną w każdym miesiącu) + 1 zł za każdą godzinę poza czasem 5 godzinnego, bezpłatnego nauczania, wychowania i opieki, należy uiszczać pod koniec danego miesiąca;</font><font size="3"><br><br><font color="black">FORMY TERAPII WSPOMAGAJĄCYCH W PRZEDSZKOLU:<br>- terapia SI<br>- trening uwagi słuchowej metodą A. Tomatisa<br>- zajęcia muzyczno - ruchowe z elementami rytmiki i logorytmiki - 2 razy w tygodniu<br>- gimnastyka korekcyjna - 1 raz w tygodniu<br> - zajęcia ogólnorozwojowe - 2 razy w tygodniu<br><br><b>Zajęcia dodatkowe popołudniowe:</b><br>- Szkoła tańca AS<br> - Taekwon-Do - p. Mikołaj Kotowicz<br><br><br>
+<font size="3"><b><font color="green">PRZEDSZKOLE</font></b></font><br><br><font size="3"><font color="green">●  opłatę za wyżywienie (obliczaną w każdym miesiącu) + 1 zł za każdą godzinę poza czasem 5 godzinnego, bezpłatnego nauczania, wychowania i opieki, należy uiszczać pod koniec danego miesiąca;</font><font size="3"><br><br><font color="black">FORMY TERAPII WSPOMAGAJĄCYCH W PRZEDSZKOLU:<br>- terapia SI<br>- trening uwagi słuchowej metodą A. Tomatisa<br>- zajęcia muzyczno - ruchowe z elementami rytmiki i logorytmiki - 2 razy w tygodniu<br> - zajęcia ogólnorozwojowe - 2 razy w tygodniu<br><br><b>Zajęcia dodatkowe popołudniowe:</b><br>- Szkoła tańca AS<br> - Taekwon-Do - p. Mikołaj Kotowicz<br><br><br>
  <font size="3"><b><font color="blue">SZKOŁA</font></b></font><br><br><font color="blue">
 ● opłatę za wyżywienie (obliczaną w każdym miesiącu), należy uiszczać pod koniec danego miesiąca;</font></font><br><br><font color="black"><font size="3">FORMY TERAPII WSPOMAGAJĄCYCH DLA UCZNIÓW KL. I - III:<br>- terapia SI<br>- trening uwagi słuchowej metodą A. Tomatisa<br>- zajęcia muzyczno - ruchowe z elementami rytmiki i logorytmiki - 1 raz w tygodniu<br><br>
 
@@ -71,22 +71,20 @@ halówki sznurowane lub zapinane na rzepę w podpisanym worku<br><br>
 strój galowy na uroczystości szkolne: biała koszula/ bluzka, ciemne<br>
 spodnie materiałowe/ spódnica<br><br>
 Nauczyciele klas I, II, III<br>
-<br><p></p><h3><font color="green"> KALENDARZ DNI WOLNYCH  W ROKU SZKOLNYM 2024/2025</font></h3> <!--- <br>Przedszkole świadczy opiekę nad dziećmi od poniedziałku do piątku w godzinach od 6<sup>30</sup> - 16<sup>30</sup> przez cały rok szkolny, za wyjątkiem:<br> - okresu Świąt Bożego Narodzenia i Wielkanocy zgodnie z kalendarzem ustalonym przez MEN<br> - dwóch miesięcy wakacji<br><br>-->
+<br><p></p><h3><font color="green"> KALENDARZ DNI WOLNYCH  W ROKU SZKOLNYM 2025/2026</font></h3> <!--- <br>Przedszkole świadczy opiekę nad dziećmi od poniedziałku do piątku w godzinach od 6<sup>30</sup> - 16<sup>30</sup> przez cały rok szkolny, za wyjątkiem:<br> - okresu Świąt Bożego Narodzenia i Wielkanocy zgodnie z kalendarzem ustalonym przez MEN<br> - dwóch miesięcy wakacji<br><br>-->
 <table border="3">
- <tbody><tr><td> 1. 11. 2024</td><td> Święto Wszystkich Świętych - wolne ustawowo</td></tr> 
-<tr><td> 11. 11. 2024</td><td> Święto Niepodległości - wolne ustawowo</td></tr> 
-<tr><td> 23. 12. - 31. 12. 2024</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna</td></tr>
-<tr><td> 01. 01. 2025</td><td>Nowy Rok - wolne ustawowo</td></tr>
-<tr><td> 06. 01. 2025</td><td>Święto Trzech Króli - wolne ustawowo</td></tr>
-<tr><td>20. 01. - 02. 02. 2025</td><td>ferie zimowe w Małopolsce<br><b> dyżur w przedszkolu </b></td></tr>
-<tr><td> 17. 04. - 21. 04. 2025</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/przedszkole</td></tr>
-<tr><td> 17. 04. - 22. 04. 2025</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/szkoła</td></tr>
-<tr><td> 01. oraz 03. 05. 2025</td><td>Święto Konstytucji 3 Maja - wolne ustawowo</td></tr>
-<tr><td> 02.05.2025</td><td>Dyżur w przedszkolu</td></tr>
-<tr><td> 19. 05. 2025</td><td>Boże Ciało - wolne ustawowo</td></tr>
-<tr><td> 20. 05. 2025</td><td>Dyżur w przedszkolu</td></tr>
-<tr><td> 27. 06. 2025</td><td>Uroczyste zakończenie roku przedszkolnego/szkolnego (piątek)</td></tr>
-<tr><td> 30. 06.-25.07.2025</td><td>Dyżur wakacyjny w godzinach od 7.00 do 15.00. Należy zgłosić dziecko do wychowawcy do 15.05.24 r. </td></tr></tbody></table>
+ <tbody><tr><td> 1. 11. 2025</td><td> Święto Wszystkich Świętych - wolne ustawowo</td></tr> 
+<tr><td> 11. 11. 2025</td><td> Święto Niepodległości - wolne ustawowo</td></tr> 
+<tr><td> 22. 12. - 31. 12. 2025</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna</td></tr>
+<tr><td> 01. 01. 2026</td><td>Nowy Rok - wolne ustawowo</td></tr>
+<tr><td> 06. 01. 2026</td><td>Święto Trzech Króli - wolne ustawowo</td></tr>
+<tr><td>02.02. 01. - 15. 02. 2026</td><td>ferie zimowe w Małopolsce<br><b> dyżur w przedszkolu </b></td></tr>
+<tr><td> 02. 04. - 06. 04. 2026</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/przedszkole</td></tr>
+<tr><td> 02. 04. - 06. 04. 2026</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/szkoła</td></tr>
+<tr><td> 01. oraz 03. 05. 2026</td><td>Święto Konstytucji 3 Maja - wolne ustawowo</td></tr>
+<tr><td> 04. 05. 2026</td><td>Boże Ciało - wolne ustawowo</td></tr>
+<tr><td> 26. 06. 2026</td><td>Uroczyste zakończenie roku przedszkolnego/szkolnego (piątek)</td></tr>
+<tr><td> 29. 06.-24.07.2026</td><td>Dyżur wakacyjny w godzinach od 7.00 do 15.00. Należy zgłosić dziecko do wychowawcy do 15.05.26 r. </td></tr></tbody></table>
 
 
 <p></p>
