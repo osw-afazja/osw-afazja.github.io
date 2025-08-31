@@ -51,7 +51,7 @@ W ROKU SZKOLNYM 2025/2026 NA SPOTKANIA ZAPRASZAMY:
 <font color="black"> Klasy 3a, 3b - spotkanie w ramach opracowania ewaluacji wielospecjalistycznej oceny funkcjonowania ucznia.  Godziny zostaną podane przez nauczycieli. <br> 
  <p></p>
         
-      </font></b></font></b></font></b></font></b></font></b></font></b></font></div><font size="3"><b><font color="black"><b><font color="black"><b><font color="black">
-    </font></b></font></b></font></b></font></div><font size="3"><b><font color="black"><b><font color="black"><b><font color="black">
+    <!--  </font></b></font></b></font></b></font></b></font></b></font></b></font></div><font size="3"><b><font color="black"><b><font color="black"><b><font color="black">
+    </font></b></font></b></font></b></font></div><font size="3"><b><font color="black"><b><font color="black"><b><font color="black"> -->
   </font></b></font></b></font></b></font></div><font size="3"><b><font color="black"><b><font color="black"><b><font color="black">
-</font></b></font></b></font></b></font></div>
+</font></b></font></b></font></b></font></div> 
