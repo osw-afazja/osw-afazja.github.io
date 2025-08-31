@@ -8,6 +8,7 @@ show_slider: true
 
 <div class="home-blog">
   <div class="container">
+    <!--
     <div class="row">
     <div class="col-md-4 hb-content">
       <div class="hb-meta"><span class="date"></span></div>
@@ -54,6 +55,6 @@ show_slider: true
   <div class="col-md-4 hb-content">
     <a href="/" class="hb-more">Wszystkie wydarzenia</a>
   </div>
-</div>
+</div> -->
   </div>
 </div>
