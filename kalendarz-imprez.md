@@ -53,7 +53,7 @@ permalink: /kalendarz-imprez/
           <br>
           29. 01. Dzień Babci i Dziadka w klasach I i II
           <br>
-          23. 01. Dzień Babci i Dziadka w w klasach III
+          30. 01. Dzień Babci i Dziadka w w klasach III
           <br>
         </p>
         <p>
