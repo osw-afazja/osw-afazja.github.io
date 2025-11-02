@@ -76,7 +76,8 @@ Nauczyciele klas I, II, III<br>
 <table border="3">
  <tbody><tr><td> 1. 11. 2025</td><td> Święto Wszystkich Świętych - wolne ustawowo</td></tr> 
 <tr><td> 11. 11. 2025</td><td> Święto Niepodległości - wolne ustawowo</td></tr> 
-<tr><td> 22. 12. - 31. 12. 2025</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna</td></tr>
+<tr><td> 24. 12. - 31. 12. 2025</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna przedszkole</td></tr>
+<tr><td> 22. 12. - 31. 12. 2025</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna szkoła</td></tr>
 <tr><td> 01. 01. 2026</td><td>Nowy Rok - wolne ustawowo</td></tr>
 <tr><td> 06. 01. 2026</td><td>Święto Trzech Króli - wolne ustawowo</td></tr>
 <tr><td>02.02. - 15. 02. 2026</td><td>ferie zimowe w Małopolsce<br><b> dyżur w przedszkolu </b></td></tr>
