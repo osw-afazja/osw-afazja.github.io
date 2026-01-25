@@ -46,16 +46,7 @@ permalink: /kalendarz-imprez/
           18. 12. godz. 13<sup>30</sup> zapraszamy na Jasełka Rodziców i Opiekunów
           <br>
         </p>
-        <p>
-          <b>STYCZEŃ</b>
-          <br>
-          23. 01. Dzień Babci i Dziadka w przedszkolu
-          <br>
-          29. 01. Dzień Babci i Dziadka w klasach I i II
-          <br>
-          30. 01. Dzień Babci i Dziadka w w klasach III
-          <br>
-        </p>
+        
         <p>
           <b>LUTY</b>
           <br>
