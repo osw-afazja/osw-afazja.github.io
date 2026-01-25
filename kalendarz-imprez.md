@@ -46,7 +46,6 @@ permalink: /kalendarz-imprez/
           18. 12. godz. 13<sup>30</sup> zapraszamy na Jasełka Rodziców i Opiekunów
           <br>
         </p>
-        
         <p>
           <b>LUTY</b>
           <br>
