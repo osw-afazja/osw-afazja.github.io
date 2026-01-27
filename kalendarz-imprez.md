@@ -49,7 +49,7 @@ permalink: /kalendarz-imprez/
         <p>
           <b>LUTY</b>
           <br>
-          Bale karnawałowe
+          17.02 Bale karnawałowe
         </p>
         <p>
           <b>MARZEC</b>
