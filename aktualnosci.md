@@ -21,8 +21,8 @@ permalink: /aktualnosci/
 Szanowni Państwo, <br> <br>
 Apelujemy o wsparcie finansowe remontu zabytkowego budynku,<br>
 który w przyszlości będzie  pełnił rolę centrum terapii, nauki i zabawy dla dzieci afatycznych. <br>
-Na ten cel została załozona zbiórka dopstępna w liknu poniżej.<br>
-<br>https://www.siepomaga.pl/przedszkole-krakow
+Na ten cel została założona zbiórka dopstępna w liknu poniżej.<br>
+<br><a href="https://www.siepomaga.pl/przedszkole-krakow">https://www.siepomaga.pl/przedszkole-krakow</a>
 <br><br>
        <!---<font size="5"><b><font color="blue">Rozpoczęcie roku przedszkolnego i szkolnego 2025/2026</font> </b></font><br><br>
 <font size="4"><br>
