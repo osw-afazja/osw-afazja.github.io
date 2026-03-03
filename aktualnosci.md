@@ -22,7 +22,8 @@ Szanowni Państwo, <br> <br>
 Apelujemy o wsparcie finansowe remontu zabytkowego budynku,<br>
 który w przyszlości będzie  pełnił rolę centrum terapii, nauki i zabawy dla dzieci afatycznych. <br>
 Na ten cel została założona zbiórka dopstępna w liknu poniżej.<br>
-<br><a href="https://www.siepomaga.pl/przedszkole-krakow">https://www.siepomaga.pl/przedszkole-krakow</a>
+<br>
+<a href="https://www.siepomaga.pl/przedszkole-krakow">https://www.siepomaga.pl/przedszkole-krakow</a>
 <br><br>
        <!---<font size="5"><b><font color="blue">Rozpoczęcie roku przedszkolnego i szkolnego 2025/2026</font> </b></font><br><br>
 <font size="4"><br>
@@ -110,7 +111,9 @@ szkoły- (analiza „dobrych praktyk” stosowana przez uczestników),<br>
 miło jest nam poinformować, że z inicjatywy Terapeutów oraz Nauczycieli przy Ośrodku Szkolno-Wychowawczym dla Dzieci z Afazją swoją pracę rozpoczyna Fundacja.  <br> Realizuje ona swoje cele statutowe poprzez działania na rzecz dzieci o zaburzonym rozwoju językowym; <br> podejmuje zadania związane z popularyzacją wiedzy na temat niedokształcenia mowy o typie afazji, poszerzaniem oferty diagnostyczno-terapeutycznej oraz integrowaniem środowisk związanych z terapią i edukacją dzieci o specjalnych potrzebach edukacyjnych.   <br>
 <br><br>
 <b>Zachęcamy do odwiedzania naszej strony internetowej:<br><br>
-https://www.facebook.com/Fundacja-Jestem-rozumiem-mówię-112842554647870</b>
+<a href="https://www.facebook.com/Fundacja-Jestem-rozumiem-mówię-112842554647870">
+https://www.facebook.com/Fundacja-Jestem-rozumiem-mówię-112842554647870
+</a>
 <br><br>
 
 
