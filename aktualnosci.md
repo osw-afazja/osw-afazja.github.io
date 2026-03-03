@@ -14,7 +14,17 @@ permalink: /aktualnosci/
         </div>
         <div class="space30"></div>
         
-        <font size="5"><b><font color="blue">Rozpoczęcie roku przedszkolnego i szkolnego 2025/2026</font> </b></font><br><br>
+      
+
+<font size="5"><b><font color="blue">Zbiórka na adaptację budynku z przeznaczeniem na przedszkole</font> </b></font><br><br>
+<font size="4"><br>
+Szanowni Państwo, <br> <br>
+Apelujemy o wsparcie finansowe remontu zabytkowego budynku,<br>
+który w przyszlości będzie  pełnił rolę centrum terapii, nauki i zabawy dla dzieci afatycznych. <br>
+Na ten cel została załozona zbiórka dopstępna w liknu poniżej.<br>
+<br>https://www.siepomaga.pl/przedszkole-krakow
+<br><br>
+       <!---<font size="5"><b><font color="blue">Rozpoczęcie roku przedszkolnego i szkolnego 2025/2026</font> </b></font><br><br>
 <font size="4"><br>
 Szanowni Państwo, Drogie Dzieci<br> <br>
 1 września 2025 r. rozpoczynamy nowy rok szkolny w naszej placówce<br>
@@ -25,7 +35,7 @@ Po Mszy Świętej odbędzie się spotkanie organizacyjne na sali gimnastycznej,<
 a następnie spotkanie z wychowawcami w klasach i grupach przedszkolnych.<br>
 <br><br>
 <i>Dyrektor oraz Grono Pedagogiczne</i>
-<br><br>
+<br><br>-->
 
 <!---<font size=5><b><font color=blue>2 września -rozpoczęcie roku szkolnego 2024/2025</font color> </b></font size><br><br>
 </font color=black><font size=4><br>
