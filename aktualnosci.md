@@ -101,9 +101,7 @@ szkoły- (analiza „dobrych praktyk” stosowana przez uczestników),<br>
 - rozwijanie kompetencji&nbsp;nauczycieli&nbsp; w zakresie technologii informacyjno –komunikacyjnych,<br>
 - zwiększenia efektywności procesu nauczania we wszystkich placówkach.<br>
 
-
-
-<br><br><br>
+<br><br>
 <font size="5"><b><font color="blue">Fundacja "Jestem, rozumiem, mówię"<br> podejmuje działania na rzecz wsparcia dzieci z zaburzonym rozwojem językowym.</font> </b></font><br><br>
 </font><font size="4"><br>
 
@@ -120,7 +118,7 @@ https://www.facebook.com/Fundacja-Jestem-rozumiem-mówię-112842554647870
 
 
         
-      </font></div><font size="4">
+    <---!  </font></div><font size="4">
     </font></div><font size="4">
   </font></div><font size="4">
-</font></div>
+</font></div>--->
