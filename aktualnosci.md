@@ -114,7 +114,8 @@ miło jest nam poinformować, że z inicjatywy Terapeutów oraz Nauczycieli przy
 <a href="https://www.facebook.com/Fundacja-Jestem-rozumiem-mówię-112842554647870">
 https://www.facebook.com/Fundacja-Jestem-rozumiem-mówię-112842554647870
 </a>
-<br><br>
+</font>
+
 
 
 
