@@ -23,7 +23,7 @@ Apelujemy o wsparcie finansowe remontu zabytkowego budynku,<br>
 który w przyszlości będzie  pełnił rolę centrum terapii, nauki i zabawy dla dzieci afatycznych. <br>
 Na ten cel została założona zbiórka dopstępna w liknu poniżej.<br>
 <br>
-<a href="https://www.siepomaga.pl/przedszkole-krakow">https://www.siepomaga.pl/przedszkole-krakow</a> <br>
+<a href="https://www.siepomaga.pl/przedszkole-krakow">https://www.siepomaga.pl/przedszkole-krakow</a> <br><br>
 Zachęcamy do zapoznania się z reportażem wyemitowanym przez Telewizję Kraków: <br>
 <a href="https://krakow.tvp.pl/92136692/krakow-zbiorka-na-przedszkole-dla-dzieci-z-afazja-potrzeba-miliona-zlotych?fbclid=IwY2xjawQmeiVleHRuA2FlbQIxMABicmlkETFDWDd2aFRXZ3hDRGFQdkNtc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHq6FfsRXo7BViLLmSh7bYN7vYyJIk7NDpUMgcrVZrg_KAsvs3lcv4hN8vlCj_aem_1IUaCjF-x9OcXp53OGZUUQ">
 https://krakow.tvp.pl/92136692/krakow-zbiorka-na-przedszkole-dla-dzieci-z-afazja-potrzeba-miliona-zlotych
