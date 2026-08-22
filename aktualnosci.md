@@ -15,7 +15,7 @@ permalink: /aktualnosci/
         <div class="space30"></div>
         
       
- <font size="5"><b><font color="blue">Rozpoczęcie roku przedszkolnego i szkolnego 2025/2026</font> </b></font><br><br>
+ <font size="5"><b><font color="blue">Rozpoczęcie roku przedszkolnego i szkolnego 2026/2027</font> </b></font><br><br>
 <font size="4"><br>
 Szanowni Państwo, Drogie Dzieci<br> <br>
 1 września 2026 r. rozpoczynamy nowy rok szkolny w naszej placówce<br>
