@@ -15,6 +15,18 @@ permalink: /aktualnosci/
         <div class="space30"></div>
         
       
+ <font size="5"><b><font color="blue">Rozpoczęcie roku przedszkolnego i szkolnego 2025/2026</font> </b></font><br><br>
+<font size="4"><br>
+Szanowni Państwo, Drogie Dzieci<br> <br>
+1 września 2026 r. rozpoczynamy nowy rok szkolny w naszej placówce<br>
+Zapraszamy wszystkich na Mszę Świętą o godz. 9.00<br>
+w Kościele Najświętszego Serca Pana Jezusa w Krakowie, ul. Millana 13<br>
+<br>
+Po Mszy Świętej odbędzie się spotkanie organizacyjne na sali gimnastycznej,<br>
+a następnie spotkanie z wychowawcami w klasach i grupach przedszkolnych.<br>
+<br><br>
+<i>Dyrektor oraz Grono Pedagogiczne</i>
+<br><br>
 
 <font size="5"><b><font color="blue">Zbiórka na adaptację budynku z przeznaczeniem na przedszkole</font> </b></font><br><br>
 <font size="4"><br>
