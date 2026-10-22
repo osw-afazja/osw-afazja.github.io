@@ -36,7 +36,7 @@ permalink: /kalendarz-imprez/
           <br>
           05. 10. Uroczystość 70-lecia ZSP. 
           <br>
-          10. 11. Święto Niepodległości - Akademia
+          10. 11. Święto Niepodległości - Akademia okolicznościowa
         </p>
         <p>
           <b>GRUDZIEŃ</b>
