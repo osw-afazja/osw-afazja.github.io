@@ -19,9 +19,9 @@ permalink: /kalendarz-imprez/
           01.09. godz. 9<sup>00</sup>
           - Rozpoczęcie Roku Szkolnego
           <br>
-          21.09. Dzień przedszkolaka
+          19.09. Dzień przedszkolaka
           <br>
-          25.09. Europejski Dzień Sportu Szkolnego
+          29.09. Europejski Dzień Sportu Szkolnego
         </p>
         <p>
           <b>PAŹDZIERNIK</b>
