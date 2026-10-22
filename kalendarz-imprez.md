@@ -17,7 +17,7 @@ permalink: /kalendarz-imprez/
           <b>WRZESIEŃ</b>
           <br>
           01.09. godz. 9<sup>00</sup>
-          - Rozpoczęcie Roku Szkolnego
+          - Rozpoczęcie Roku Szkolnego hhhhhhhh
           <br>
           19.09. Dzień przedszkolaka
           <br>
