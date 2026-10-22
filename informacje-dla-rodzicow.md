@@ -74,19 +74,19 @@ spodnie materiałowe/ spódnica<br><br>
 Nauczyciele klas I, II, III<br>
 <br><p></p><h3><font color="green"> KALENDARZ DNI WOLNYCH  W ROKU SZKOLNYM 2025/2026</font></h3> <!--- <br>Przedszkole świadczy opiekę nad dziećmi od poniedziałku do piątku w godzinach od 6<sup>30</sup> - 16<sup>30</sup> przez cały rok szkolny, za wyjątkiem:<br> - okresu Świąt Bożego Narodzenia i Wielkanocy zgodnie z kalendarzem ustalonym przez MEN<br> - dwóch miesięcy wakacji<br><br>-->
 <table border="3">
- <tbody><tr><td> 1. 11. 2025</td><td> Święto Wszystkich Świętych - wolne ustawowo</td></tr> 
-<tr><td> 11. 11. 2025</td><td> Święto Niepodległości - wolne ustawowo</td></tr> 
-<tr><td> 24. 12. - 31. 12. 2025</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna przedszkole</td></tr>
-<tr><td> 22. 12. - 31. 12. 2025</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna szkoła</td></tr>
-<tr><td> 01. 01. 2026</td><td>Nowy Rok - wolne ustawowo</td></tr>
-<tr><td> 06. 01. 2026</td><td>Święto Trzech Króli - wolne ustawowo</td></tr>
-<tr><td> 02.02. - 15. 02. 2026</td><td>ferie zimowe w Małopolsce<br><b> dyżur w przedszkolu </b></td></tr>
-<tr><td> 02. 04. - 06. 04. 2026</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/przedszkole</td></tr>
-<tr><td> 02. 04. - 07. 04. 2026</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/szkoła</td></tr>
-<tr><td> 01. oraz 03. 05. 2026</td><td>Święto Konstytucji 3 Maja - wolne ustawowo</td></tr>
-<tr><td> 04. 05. 2026</td><td>Boże Ciało - wolne ustawowo</td></tr>
-<tr><td> 26. 06. 2026</td><td>Uroczyste zakończenie roku przedszkolnego/szkolnego (piątek)</td></tr>
-<tr><td> 29. 06.-24.07.2026</td><td>Dyżur wakacyjny w godzinach od 7.00 do 15.00. Należy zgłosić dziecko do wychowawcy do 15.05.26 r. </td></tr></tbody></table>
+ <tbody><tr><td> 1. 11. 2026</td><td> Święto Wszystkich Świętych - wolne ustawowo</td></tr> 
+<tr><td> 11. 11. 2026</td><td> Święto Niepodległości - wolne ustawowo</td></tr> 
+<tr><td> 24. 12. - 31. 12. 2026</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna przedszkole</td></tr>
+<tr><td> 22. 12. - 31. 12. 2026</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna szkoła</td></tr>
+<tr><td> 01. 01. 2027</td><td>Nowy Rok - wolne ustawowo</td></tr>
+<tr><td> 06. 01. 2027</td><td>Święto Trzech Króli - wolne ustawowo</td></tr>
+<tr><td> 15.02. - 28. 02. 2027</td><td>ferie zimowe w Małopolsce<br><b> dyżur w przedszkolu </b></td></tr>
+<tr><td> 25. 03. - 29. 03. 2027</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/przedszkole</td></tr>
+<tr><td> 25. 03. - 30. 03. 2027</td><td>Święta Wielkanocne - wiosenna przerwa świąteczna/szkoła</td></tr>
+<tr><td> 01. oraz 03. 05. 2027</td><td>Święto Konstytucji 3 Maja - wolne ustawowo</td></tr>
+<tr><td> 27. 05. 2027</td><td>Boże Ciało - wolne ustawowo</td></tr>
+<tr><td> 25. 06. 2027</td><td>Uroczyste zakończenie roku przedszkolnego/szkolnego (piątek)</td></tr>
+<tr><td> 28. 06.-23.07.2026</td><td>Dyżur wakacyjny w godzinach od 7.00 do 15.00. Należy zgłosić dziecko do wychowawcy do 15.05.26 r. </td></tr></tbody></table>
 
 
 <p></p>
