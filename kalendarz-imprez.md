@@ -78,7 +78,7 @@ permalink: /kalendarz-imprez/
         </p>
         <p>
           <b>CZERWIEC</b>
-          br>
+          <br>
           02. 06. godz. 14<sup>00</sup> - 18<sup>00</sup> Dzień Rodziny       
           <br>
           25. 06. godz. 9<sup>00</sup>  Zakończenie Roku Szkolnego
