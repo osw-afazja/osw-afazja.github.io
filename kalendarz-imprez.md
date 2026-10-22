@@ -9,7 +9,7 @@ permalink: /kalendarz-imprez/
       <div class="events-wrap-big">
         <div class="row">
           <div class="col-md-16">
-            <h4><span>Kalendarz imprez na rok szkolny 2025/2026</span></h4>
+            <h4><span>Kalendarz imprez na rok szkolny 2026/2027</span></h4>
           </div>
         </div>
         <div class="space30"></div>
@@ -17,7 +17,7 @@ permalink: /kalendarz-imprez/
           <b>WRZESIEŃ</b>
           <br>
           01.09. godz. 9<sup>00</sup>
-          - Rozpoczęcie Roku Szkolnego zzz
+          - Rozpoczęcie Roku Szkolnego
           <br>
           19.09. Dzień przedszkolaka
           <br>
