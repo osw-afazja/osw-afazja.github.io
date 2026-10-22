@@ -19,14 +19,14 @@ permalink: /kalendarz-imprez/
           01.09. godz. 9<sup>00</sup>
           - Rozpoczęcie Roku Szkolnego
           <br>
-          19.09. Dzień przedszkolaka
+          21.09. Dzień przedszkolaka
           <br>
           26. 09. Europejski Dzień Sportu Szkolnego
         </p>
         <p>
           <b>PAŹDZIERNIK</b>
           <br>
-          10. 10. godz. 8<sup>30</sup> 
+          09. 10. godz. 8<sup>30</sup> 
           - Święto Patronalne Placówki (Pasowanie na Przedszkolaka i Ślubowanie Uczniów klas pierwszych)
           <br>
           16. 10. Dzień Papieski
@@ -34,32 +34,36 @@ permalink: /kalendarz-imprez/
         <p>
           <b>LISTOPAD</b>
           <br>
-          07. 11. Święto Niepodległości - Akademia
+          05. 10. Uroczystość 70-lecia ZSP. 
+          <br>
+          10. 11. Święto Niepodległości - Akademia
         </p>
         <p>
           <b>GRUDZIEŃ</b>
           <br>
-          05. 12. Spotkanie ze Św. Mikołajem
+          04. 12. Spotkanie ze Św. Mikołajem
           <br>
-          17. 12. godz. 10<sup>30</sup> Wigilia i Jasełka dla społeczności szkolnej
+          16. 12. godz. 10<sup>30</sup> Wigilia dla społeczności przedszkolnej i szkolnej
           <br>
-          18. 12. godz. 13<sup>30</sup> zapraszamy na Jasełka Rodziców i Opiekunów
+          17. 12. godz. 13<sup>00</sup> Jasełka dla Rodziców i Dziadków - przedszkole grupa Agnieszki Czapko oraz klas Ia, IIa, IIIa
+          <br>
+          18. 12. godz. 13<sup>00</sup> Jasełka dla Rodziców i Dziadków - przedszkole grupa Doroty Garnek oraz klas Ib, IIb, IIIb
           <br>
         </p>
         <p>
           <b>LUTY</b>
           <br>
-          17.02 Bale karnawałowe
+          28.01 Bale karnawałowe
         </p>
         <p>
           <b>MARZEC</b>
-          <br>20.03 Powitanie wiosny - Marzanna
+          <br>Powitanie wiosny - Marzanna
           <br>
+          Śniadanie wielkanocne
+           <br>
         </p>
         <p>
           <b>KWIECIEŃ</b>
-          <br>
-          Śniadanie wielkanocne
           <br>
           30. 04. Święto Narodowe Trzeciego Maja - lekcja historii
           <br>
@@ -67,17 +71,17 @@ permalink: /kalendarz-imprez/
         <p>
           <b>MAJ</b>
           <br>
-          27. 05. godz. 14<sup>00</sup> - 18<sup>00</sup> Dzień Rodziny
-          <br>
           Konkurs recytatorski
+          <br>
+          31. 05. Dzień Dziecka 
           <br>
         </p>
         <p>
           <b>CZERWIEC</b>
+          br>
+          02. 06. godz. 14<sup>00</sup> - 18<sup>00</sup> Dzień Rodziny       
           <br>
-          01. 06. Dzień Dziecka 
-          <br>
-          27. 06. godz. 9<sup>00</sup>  Zakończenie Roku Szkolnego
+          25. 06. godz. 9<sup>00</sup>  Zakończenie Roku Szkolnego
           <br>
         </p>
       </div>
