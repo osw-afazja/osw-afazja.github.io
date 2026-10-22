@@ -21,7 +21,7 @@ permalink: /kalendarz-imprez/
           <br>
           21.09. Dzień przedszkolaka
           <br>
-          26. 09. Europejski Dzień Sportu Szkolnego
+          25.09. Europejski Dzień Sportu Szkolnego
         </p>
         <p>
           <b>PAŹDZIERNIK</b>
