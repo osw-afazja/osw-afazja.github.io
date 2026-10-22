@@ -77,7 +77,7 @@ Nauczyciele klas I, II, III<br>
  <tbody><tr><td> 1. 11. 2026</td><td> Święto Wszystkich Świętych - wolne ustawowo</td></tr> 
 <tr><td> 11. 11. 2026</td><td> Święto Niepodległości - wolne ustawowo</td></tr> 
 <tr><td> 24. 12. - 31. 12. 2026</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna przedszkole</td></tr>
-<tr><td> 22. 12. - 31. 12. 2026</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna szkoła</td></tr>
+<tr><td> 24. 12. - 31. 12. 2026</td><td>Święta Bożego Narodzenia - zimowa przerwa świąteczna szkoła</td></tr>
 <tr><td> 01. 01. 2027</td><td>Nowy Rok - wolne ustawowo</td></tr>
 <tr><td> 06. 01. 2027</td><td>Święto Trzech Króli - wolne ustawowo</td></tr>
 <tr><td> 15.02. - 28. 02. 2027</td><td>ferie zimowe w Małopolsce<br><b> dyżur w przedszkolu </b></td></tr>
