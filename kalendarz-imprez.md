@@ -26,7 +26,7 @@ permalink: /kalendarz-imprez/
         <p>
           <b>PAŹDZIERNIK</b>
           <br>
-          09. 10. godz. 8<sup>30</sup> 
+          09. 10. godz. 9sup>00</sup> 
           - Święto Patronalne Placówki (Pasowanie na Przedszkolaka i Ślubowanie Uczniów klas pierwszych)
           <br>
           16. 10. Dzień Papieski
